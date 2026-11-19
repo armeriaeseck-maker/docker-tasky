@@ -1,0 +1,14 @@
+
+nom: SECK
+prenom: Ibrahima
+age: 36
+actif: true
+diplome: 
+  -   bac
+  -  L3
+
+adresse: 
+  rue: 15 rue de la Nièvre
+  cp: 31200
+  ville: Toulouse
+       
